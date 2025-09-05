@@ -1,0 +1,12 @@
+{
+  "name": "random-cookie-app",
+  "version": "1.0.0",
+  "description": "Random sessionid cookie generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
